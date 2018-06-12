@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/34b0f22093278ac93b7635947c27cebe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/astro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a13b0cac33b7095c6f707ceceea07266/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/fce00da10e135b085ebb2d5404535ed0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/5b74627fd47043246462f0355b92874a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0ade04b0d11b90e25367acfa2802ee1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/5a05a93a3583a6e078340353928ce6b7/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/cd3f11240f8214fe4a1a91c6fe811b88/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/6fce518a1ecf775bb83befb8b52f3f1b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/24717d8aef4243d1e5ef3149d413a83b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/d6d81730842015f6f833bc7475448aeb/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/4e1f1e9aa91c70ac778cf55e0f04998d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/2899f764ec072049712ca7ce3af985a0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/06d9e9af1972e43f8282ddb2c45285e1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/1abfd21cc72bfbeab675692bcf8fb7d1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f158b2da056072a3f689eb459b53bc6d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/905e4395d9d0a3630f2fee77d0bbcab9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/3df702ea77d2eb9dfdde53d9e39b6c5e/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40a0a9f3df2f13a18233f9562a91822b/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/59ef3952085489d48ad1dd04556dc9c8/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/e1a4d7e2a94e295480222260361490d2/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/bee04b112b5893ae20b72ca6e3b7810f/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/9b184cd960f3af1a5f8ac314c7c6faa5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aeb080cdb3b484b26b162da06190afe2/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/719f26ab5c525f4724b973d6fcab18cc/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16f512ac9702cf5febec7e8ead44f215/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ac323768e47ada701c75d0e40040c26a/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:3:5-40
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:1-21:12
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:2:11-69
+application
+ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/astro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a13b0cac33b7095c6f707ceceea07266/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/astro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a13b0cac33b7095c6f707ceceea07266/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/905e4395d9d0a3630f2fee77d0bbcab9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/905e4395d9d0a3630f2fee77d0bbcab9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/59ef3952085489d48ad1dd04556dc9c8/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/59ef3952085489d48ad1dd04556dc9c8/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/905e4395d9d0a3630f2fee77d0bbcab9/AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:11:9-40
+activity#com.example.astro.taskify.MainActivity
+ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/34b0f22093278ac93b7635947c27cebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0-alpha3.aar/34b0f22093278ac93b7635947c27cebe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/astro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a13b0cac33b7095c6f707ceceea07266/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] /Users/astro/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.2.aar/a13b0cac33b7095c6f707ceceea07266/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/fce00da10e135b085ebb2d5404535ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0-alpha3.aar/fce00da10e135b085ebb2d5404535ed0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/5b74627fd47043246462f0355b92874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0-alpha3.aar/5b74627fd47043246462f0355b92874a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0ade04b0d11b90e25367acfa2802ee1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0-alpha3.aar/0ade04b0d11b90e25367acfa2802ee1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/5a05a93a3583a6e078340353928ce6b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0-alpha3.aar/5a05a93a3583a6e078340353928ce6b7/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/cd3f11240f8214fe4a1a91c6fe811b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0-alpha3.aar/cd3f11240f8214fe4a1a91c6fe811b88/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/6fce518a1ecf775bb83befb8b52f3f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/loader-28.0.0-alpha3.aar/6fce518a1ecf775bb83befb8b52f3f1b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/24717d8aef4243d1e5ef3149d413a83b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0-alpha3.aar/24717d8aef4243d1e5ef3149d413a83b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/d6d81730842015f6f833bc7475448aeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0-alpha3.aar/d6d81730842015f6f833bc7475448aeb/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/4e1f1e9aa91c70ac778cf55e0f04998d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0-alpha3.aar/4e1f1e9aa91c70ac778cf55e0f04998d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/2899f764ec072049712ca7ce3af985a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0-alpha3.aar/2899f764ec072049712ca7ce3af985a0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/06d9e9af1972e43f8282ddb2c45285e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/customview-28.0.0-alpha3.aar/06d9e9af1972e43f8282ddb2c45285e1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/1abfd21cc72bfbeab675692bcf8fb7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0-alpha3.aar/1abfd21cc72bfbeab675692bcf8fb7d1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f158b2da056072a3f689eb459b53bc6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0-alpha3.aar/f158b2da056072a3f689eb459b53bc6d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/905e4395d9d0a3630f2fee77d0bbcab9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0-alpha3.aar/905e4395d9d0a3630f2fee77d0bbcab9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/3df702ea77d2eb9dfdde53d9e39b6c5e/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0-alpha3.aar/3df702ea77d2eb9dfdde53d9e39b6c5e/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40a0a9f3df2f13a18233f9562a91822b/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/40a0a9f3df2f13a18233f9562a91822b/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/59ef3952085489d48ad1dd04556dc9c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0-alpha3.aar/59ef3952085489d48ad1dd04556dc9c8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/e1a4d7e2a94e295480222260361490d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0-alpha3.aar/e1a4d7e2a94e295480222260361490d2/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/bee04b112b5893ae20b72ca6e3b7810f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0-alpha3.aar/bee04b112b5893ae20b72ca6e3b7810f/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/9b184cd960f3af1a5f8ac314c7c6faa5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/print-28.0.0-alpha3.aar/9b184cd960f3af1a5f8ac314c7c6faa5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aeb080cdb3b484b26b162da06190afe2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/aeb080cdb3b484b26b162da06190afe2/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/719f26ab5c525f4724b973d6fcab18cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/719f26ab5c525f4724b973d6fcab18cc/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16f512ac9702cf5febec7e8ead44f215/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /Users/astro/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/16f512ac9702cf5febec7e8ead44f215/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ac323768e47ada701c75d0e40040c26a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-alpha3] /Users/astro/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0-alpha3.aar/ac323768e47ada701c75d0e40040c26a/AndroidManifest.xml:20:5-44
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		ADDED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/astro/Documents/app/src/main/AndroidManifest.xml
